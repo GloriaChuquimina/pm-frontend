@@ -9,4 +9,5 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'pm-frontend';
+  tareas = 'Nuevas tareas con trackby'
 }
